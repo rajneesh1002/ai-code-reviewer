@@ -42,7 +42,7 @@ Follow these steps to set up the project locally.
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/ai-code-reviewer.git](https://github.com/YOUR_USERNAME/ai-code-reviewer.git)
+   git clone [https://github.com/rajneesh1002/ai-code-reviewer.git](https://github.com/YOUR_USERNAME/ai-code-reviewer.git)
    cd ai-code-reviewer
 
 2. **Setup Backend**
